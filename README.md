@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huh-prince&label=Profile%20views&color=0e75b6&style=flat" alt="huh-prince" /> </p>
 
-- 🔭 I’m currently working on [vartalaap - realtime chat application.](https://github.com/Huh-prince/vartalaap)
+- 🔭 I’m currently working on [Chat-Masti - realtime chat application.](https://github.com/Huh-prince/chatMasti)
 
 - 🌱 I’m currently learning **three.js, socket.io, multer, Cloudinary, Redux / Context API**
 
