@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **three.js, socket.io, multer, Cloudinary, Redux / Context API**
 
-- 👨‍💻 All of my projects are available at [<a href="https://portfolio-two-sooty-21.vercel.app/">Portfolio</a>]
+- 👨‍💻 All of my projects are available at [<a href="https://portfolio-two-sooty-21.vercel.app/" target="blank">Portfolio</a>]
 
 - 💬 Ask me about **gsap, react, vue, tailwind, cyber security(malware analysis)**
 
