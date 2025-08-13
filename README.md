@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Chat-Masti - realtime chat application.](https://github.com/Huh-prince/chatMasti)
 
-- 🌱 I’m currently learning **three.js, socket.io, multer, Cloudinary, Redux / Context API**
+- 🌱 I’m currently learning **three.js, socket.io, API**
 
 - 👨‍💻 All of my projects are available at [<a href="https://portfolio-two-sooty-21.vercel.app/" target="blank">Portfolio</a>]
 
