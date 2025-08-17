@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huh-prince&label=Profile%20views&color=0e75b6&style=flat" alt="huh-prince" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Chat-Masti - realtime chat application.<br><br>🌱 I’m currently learning three.js, socket.io, AI<br><br>👨‍💻 All of my projects are available at <a href="huhprince.dev" target="blank">[Portfolio]</a><br><br>💬 Ask me about gsap, react, vue, tailwind, cyber security(malware analysis)<br><br>📫 How to reach me prince2692003@gmail.com<br><br>⚡ Fun fact I am in tech octopus mode rn.
+🔭 I’m currently working on Chat-Masti - realtime chat application.<br><br>🌱 I’m currently learning three.js, socket.io, AI<br><br>👨‍💻 All of my projects are available at <a href="https://huhprince.dev" target="blank">[Portfolio]</a><br><br>💬 Ask me about gsap, react, vue, tailwind, cyber security(malware analysis)<br><br>📫 How to reach me prince2692003@gmail.com<br><br>⚡ Fun fact I am in tech octopus mode rn.
 
 
 ## 🌐 Socials:
